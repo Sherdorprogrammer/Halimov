@@ -1,0 +1,2 @@
+# Halimov
+Python loyiha
